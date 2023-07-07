@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @re-saw
+- 👋 Hi, I’m @forlorn-wrld
 - 👀 I’m interested in coding I guess.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on AI and ML.
